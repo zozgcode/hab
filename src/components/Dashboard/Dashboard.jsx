@@ -47,10 +47,10 @@ export default function Dashboard() {
           </div>
         </div>
       </div>
-      <div className="credit_card">
+      {/* <div className="credit_card">
         <img src={creditCard} alt="creditCard" />
         <span>{user.cardName}</span>
-      </div>
+      </div> */}
       <div className="account-footer">
         <div>
           <span>
