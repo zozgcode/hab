@@ -44,7 +44,7 @@ export default function KatherineKnight() {
             <span className="_desc">
               tx/247229.mhy/cre <p>23/6/2016</p>
             </span>
-            <span className="green">$245,000.00</span>
+            <span className="green">$1,120,000.00</span>
           </div>
         </div>
         <div className="transaction_box">
@@ -52,7 +52,7 @@ export default function KatherineKnight() {
             <span className="_desc">
               tx/063741.mhy/cre <p>15/6/2015</p>
             </span>
-            <span className="green">$2,800,000.00</span>
+            <span className="green">$245,000.00</span>
           </div>
         </div>
         <div className="transaction_box transaction_boxxx">
