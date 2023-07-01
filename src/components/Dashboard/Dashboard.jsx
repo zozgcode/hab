@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Modal from "@bdenzer/react-modal";
 import Logo from "../../assets/logo.png";
-import creditCard from "../../assets/1617888734hh2iaLYuB1.png";
+// import creditCard from "../../assets/1617888734hh2iaLYuB1.png";
 import "./Dashboard.css";
 import KatherineKnight from "../AllUserTransactions/KatherineKnight";
 
