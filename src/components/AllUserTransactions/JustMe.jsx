@@ -1,8 +1,8 @@
 import React from "react";
 
-export default function KatherineKnight() {
+export default function JustMe() {
   return (
-    <div className="transaction-history forNoNpAymEnt">
+    <div className="transaction-history">
       <div className="transaction-history-header">
         <p>LAST TRANSACTIONS</p>
         <div className="transaction-history-header-right">

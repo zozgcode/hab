@@ -5,6 +5,7 @@ import Logo from "../../assets/logo.png";
 // import creditCard from "../../assets/1617888734hh2iaLYuB1.png";
 import "./Dashboard.css";
 import KatherineKnight from "../AllUserTransactions/KatherineKnight";
+import JustMe from "../AllUserTransactions/JustMe";
 
 export default function Dashboard() {
   const [shouldShowModal, setShouldShowModal] = useState(false);
@@ -44,6 +45,7 @@ export default function Dashboard() {
           <hr />
           <div className="transaction_container">
             {user.id === 1 && <KatherineKnight />}
+            {user.id === 2 && <JustMe />}
           </div>
         </div>
       </div>

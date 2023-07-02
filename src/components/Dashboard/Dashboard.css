@@ -6,6 +6,7 @@
     background-color: #00000049;
     height: 200vh;
     display: block;
+    
   }
   .dashboard_header {
     padding: 15px;
@@ -63,6 +64,9 @@
   }
   hr {
     border: 1px solid rgb(240, 240, 240);
+  }
+  .forNoNpAymEnt{
+    background-image: url("https://i.ibb.co/z7x82xg/Group-5.png");
   }
   .transaction-history-header {
     display: flex;
