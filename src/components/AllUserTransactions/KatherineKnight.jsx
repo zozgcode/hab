@@ -2,7 +2,8 @@ import React from "react";
 
 export default function KatherineKnight() {
   return (
-    <div className="transaction-history forNoNpAymEnt">
+    // forNoNpAymEnt
+    <div className="transaction-history">
       <div className="transaction-history-header">
         <p>LAST TRANSACTIONS</p>
         <div className="transaction-history-header-right">
