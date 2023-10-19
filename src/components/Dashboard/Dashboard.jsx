@@ -87,7 +87,7 @@ export default function Dashboard() {
       >
         <form className="modal_form" onSubmit={(e) => e.preventDefault()}>
           <div>
-            <label>Receipt Account</label>
+            <label>Recipient Account</label>
             <input type="text" />
           </div>
           <div>
